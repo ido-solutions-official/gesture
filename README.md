@@ -4,7 +4,7 @@ Machine : MAC Os Mojave ver 10.14.4
 Language : python 3.6.8
 
 Packages : see <a href="https://github.com/ido-solutions-official/gesture/blob/master/requirement.txt">requirement.txt</a>
-## How to use notebook
+## How to use the notebook
 **Step1 : Set up your computer**
 
 This notebook wrote in jupyter notebook(.ipynb). If you don't have Python notebook installed on your computer <a href="https://github.com/ido-solutions-official/index/wiki">see more instructions here</a>
