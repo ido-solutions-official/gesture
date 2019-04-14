@@ -16,7 +16,7 @@ by using git, type
 in the terminal. If you don't have Git installed on your computer <a href="https://git-scm.com/downloads">see more instructions here</a>
 
 **Step3 : install python packages**
-install Python packages with requirement.txt in repository. Simply go to your python environment, open terminal then type
+install Python packages with requirement.txt in repository. Simply open terminal, go to your python environment, then type
 
 `pip install -r requirement.txt`
 
