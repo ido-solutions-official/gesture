@@ -47,7 +47,7 @@ gesture
 ```
 * by running part 1 of Python notebook, It will convert training data(.png images in folder `raw_images/train`) into images in folder `processed images`
 
-* the training images must be named in a format **catagorial_id.xxx** i.e. __buff_20.png__ or __paper_90.jpg__
+* the training images must be named in a format **_catagory_id.xxx_** i.e. __buff_20.png__ or __paper_90.jpg__
 
 * We could prepare new data set by 
   1. Delete all images in a folder `raw_images/train`
