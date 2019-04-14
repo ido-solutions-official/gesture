@@ -5,11 +5,11 @@ Language : python 3.6.8
 
 Packages : see <a href="https://github.com/ido-solutions-official/gesture/blob/master/requirement.txt">requirement.txt</a>
 ## How to use notebook
-**Step1 : set up your computer**
+**Step1 : Set up your computer**
 
 This notebook wrote in jupyter notebook(.ipynb). If you don't have Python notebook installed on your computer <a href="https://github.com/ido-solutions-official/index/wiki">see more instructions here</a>
 
-**Step2 : clone repository**
+**Step2 : Clone repository**
 
 by using git, type 
 
@@ -17,7 +17,7 @@ by using git, type
 
 in the terminal. If you don't have Git installed on your computer <a href="https://git-scm.com/downloads">see more instructions here</a>
 
-**Step3 : install python packages**
+**Step3 : Install python packages**
 
 install Python packages with requirement.txt in repository. Simply open terminal, go to your python environment, then type
 
