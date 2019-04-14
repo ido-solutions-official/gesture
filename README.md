@@ -1,1 +1,1 @@
-# gesture
+# Gesture training model
