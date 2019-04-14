@@ -7,7 +7,7 @@ Packages : see <a href="https://github.com/ido-solutions-official/gesture/blob/m
 ## How to use the notebook
 **Step1 : Set up your computer**
 
-This notebook wrote in jupyter notebook(.ipynb). If you don't have Python notebook installed on your computer <a href="https://github.com/ido-solutions-official/index/wiki">see more instructions here</a>
+This notebook was written in jupyter notebook(.ipynb). If you don't have Python notebook installed on your computer <a href="https://github.com/ido-solutions-official/index/wiki">see more instructions here</a>
 
 **Step2 : Clone repository**
 
