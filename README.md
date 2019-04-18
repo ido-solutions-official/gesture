@@ -57,7 +57,7 @@ gesture
     |...
 
 ```
-* by running part 1 of Python notebook, It will convert training data(.png images in folder `raw_images/train`) into images in folder `processed images`
+* by running part 1 of Python notebook, It will convert training data(__.png__ images in folder `raw_images/train`) into images in folder `processed images`
 
 * the training images must be named in a format **_catagory_id.xxx_** i.e. __buff_20.png__ or __paper_90.jpg__
 
