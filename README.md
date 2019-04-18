@@ -61,7 +61,7 @@ gesture
 
 * the training images must be named in a format **_catagory_id.xxx_** i.e. __buff_20.png__ or __paper_90.jpg__
 
-* We could prepare new data set by 
+* We could prepare new dataset by 
   1. Delete all images in a folder `raw_images/train`
   2. Delete a folder `processed_images`
   3. Put new images in a folder `raw_images/train` with specified format.
@@ -69,7 +69,7 @@ gesture
   
 **Step5 : Train and Predict a gesture**
 
-By running part 2 of Python notebook, It will created a keras CNN model, save in .h5 format, then predict an in-sample data
+By running part 2 of Python notebook, It will create Keras CNN model, save in .h5 format, then predict an in-sample data
 
 * My CNN model is the same as Number classfication based on MNIST database. Credit : <a href="https://github.com/asingh33/CNNGestureRecognizer#cnn-model-used">Abhishek Singh,asingh33/CNNGestureRecognizer: CNNGestureRecognizer (Version 1.3.0),</a>
 
