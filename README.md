@@ -23,8 +23,9 @@ install Python packages with requirement.txt in repository. Simply open terminal
 
 `pip install -r requirement.txt`
 
-__Remarks__
-This Notebook run on Keras versions 2.2.4; however, installing from `pip` resulting in errors when fitting model with validation. We recommend installing Keras directly from their github using `git`.
+---
+#### Remarks (18 APR 2019)
+This Notebook run on _Keras versions 2.2.4_; however, installing from `pip` resulting in errors when fitting model with validation. We recommend installing Keras directly from their github using `git`.
 
 `git clone https://github.com/keras-team/keras.git`
 
@@ -34,7 +35,7 @@ Then, `cd` to the Keras folder and run the install command:
 cd keras
 sudo python setup.py install
 ```
-
+---
 **Step4 : Prepare Dataset**
 
 In this example, we had already prepare some hand-gesture dataset structured as following;
