@@ -25,7 +25,7 @@ install Python packages with requirement.txt in repository. Simply open terminal
 
 ---
 #### Remarks (18 APR 2019)
-This Notebook run on _Keras versions 2.2.4_; however, installing from `pip` resulting in errors when fitting model with validation. We recommend installing Keras directly from their github using `git`.
+This Notebook run using _Keras versions 2.2.4_; however, installing from `pip` resulting in errors when fitting model with validation. We recommend installing Keras directly from their github using `git`.
 
 `git clone https://github.com/keras-team/keras.git`
 
